@@ -1,6 +1,6 @@
-const habilidades = [
+[
 
-    desarrolloWeb = {
+    {
         html: {
             imagen: "./multimedia/html.png",
             parrafo: "HTML5: MAQUETACION"
@@ -14,7 +14,8 @@ const habilidades = [
             parrafo: "JavaScript: Funcionalidad de la web"
         },
     },
-    diseñoDeLaWeb = {
+    // ---------------------
+    {
         ps:{
             imagen: "./multimedia/ps.png",
             parrafo: "Photoshop: Edicion de imagenes",
@@ -28,15 +29,15 @@ const habilidades = [
             parrafo: "Google Icons/Fonts: Tipografias e iconos para la web",
         }
     },
-
-    baseDeDatos = {
+    // -----------------------
+    {
         msql:{
             imagen: "./multimedia/mysql.png",
             parrafo: "MySql: Gestor y creador de bases de datos"
         }
     },
-
-    herramientas = {
+    //----------------------
+    {
         vsc:{
             imagen: "./multimedia/vsc.png",
             parrafo: "Visual Studio Code: Editor de texto"
@@ -62,8 +63,8 @@ const habilidades = [
             parrafo: "MySql Workbench: Interfaz de Mysql"
         },
     },
-
-    backend = {
+    //--------------------------
+    {
         nodeJs:{
             imagen: "./multimedia/node.js",
             parrafo: "Node.js: Javascript del lado del servidor"
@@ -74,3 +75,4 @@ const habilidades = [
         },
     }
 ]
+
