@@ -1,5 +1,3 @@
-// Habilidades de la Seccion "HABILIDADES"
-
 const habilidades = [
 
     desarrolloWeb = {
@@ -76,9 +74,3 @@ const habilidades = [
         },
     }
 ]
-
-let img = document.querySelector(".h")
-let p = document.querySelector(".p")
-
-img.src = habilidades[4].nodeJs.imagen;
-p.innerHTML = habilidades[4].nodeJs.parrafo;
