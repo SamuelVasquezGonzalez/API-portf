@@ -2,74 +2,74 @@
 
     {
         "html": {
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/html.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/html.png",
             "parrafo": "HTML5: MAQUETACION"
         },
         "css": {
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/css.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/css.png",
             "parrafo": "CSS3: ESTILOS DEL SITIOO"
         },
         "js": {
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/js.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/js.png",
             "parrafo": "JavaScript: Funcionalidad de la web"
         }
     },
 
     {
         "ps":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/ps.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ps.png",
             "parrafo": "Photoshop: Edicion de imagenes"
         },
         "fontAwesomeIcons": {
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/fontawesome.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/fontawesome.png",
             "parrafo": "FontAwesome: Iconos en formato de fuente"
         },
         "googleIcons": {
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/google.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/google.png",
             "parrafo": "Google Icons/Fonts: Tipografias e iconos para la web"
         }
     },
 
     {
         "mysql":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/mysql.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/mysql.png",
             "parrafo": "MySql: Gestor y creador de bases de datos"
         }
     },
 
     {
         "vsc":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/vsc.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/vsc.png",
             "parrafo": "Visual Studio Code: Editor de texto"
         },
         "terminal":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/terminal.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/terminal.png",
             "parrafo": "Terminal de Windows"
         },
         "xampp":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/xampp.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/xampp.png",
             "parrafo": "Xampp: Servidor Local"
         },
         "git":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/git.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/git.png",
             "parrafo": "Git: Control de versionesl"
         },
         "npm":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/npm.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/npm.png",
             "parrafo": "Npm: Manejador de paquetes de Node.js"
         },
        "workbench":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/workbench.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/workbench.png",
             "parrafo": "MySql Workbench: Interfaz de Mysql"
         }
     },
     {
         "nodeJs":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/node.js",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/node.js",
             "parrafo": "Node.js: Javascript del lado del servidor"
         },
         "express":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/express.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/express.png",
             "parrafo": "Express.js: Framework de Node.js para realizar servidores"
         }
     }
