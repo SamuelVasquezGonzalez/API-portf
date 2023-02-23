@@ -2,74 +2,74 @@
 
     {
         "html": {
-            "imagen": "./multimedia/html.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/html.png",
             "parrafo": "HTML5: MAQUETACION"
         },
         "css": {
-            "imagen": "./multimedia/css.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/css.png",
             "parrafo": "CSS3: ESTILOS DEL SITIOO"
         },
         "js": {
-            "imagen": "./multimedia/js.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/js.png",
             "parrafo": "JavaScript: Funcionalidad de la web"
         }
     },
 
     {
         "ps":{
-            "imagen": "./multimedia/ps.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/ps.png",
             "parrafo": "Photoshop: Edicion de imagenes"
         },
         "fontAwesomeIcons": {
-            "imagen": "./multimedia/fontawesome.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/fontawesome.png",
             "parrafo": "FontAwesome: Iconos en formato de fuente"
         },
         "googleIcons": {
-            "imagen": "./multimedia/google.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/google.png",
             "parrafo": "Google Icons/Fonts: Tipografias e iconos para la web"
         }
     },
 
     {
-        "msql":{
-            "imagen": "./multimedia/mysql.png",
+        "mysql":{
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/mysql.png",
             "parrafo": "MySql: Gestor y creador de bases de datos"
         }
     },
 
     {
         "vsc":{
-            "imagen": "./multimedia/vsc.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/vsc.png",
             "parrafo": "Visual Studio Code: Editor de texto"
         },
         "terminal":{
-            "imagen": "./multimedia/terminal.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/terminal.png",
             "parrafo": "Terminal de Windows"
         },
         "xampp":{
-            "imagen": "./multimedia/xampp.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/xampp.png",
             "parrafo": "Xampp: Servidor Local"
         },
         "git":{
-            "imagen": "./multimedia/git.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/git.png",
             "parrafo": "Git: Control de versionesl"
         },
         "npm":{
-            "imagen": "./multimedia/npm.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/npm.png",
             "parrafo": "Npm: Manejador de paquetes de Node.js"
         },
        "workbench":{
-            "imagen": "./multimedia/workbench.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/workbench.png",
             "parrafo": "MySql Workbench: Interfaz de Mysql"
         }
     },
     {
         "nodeJs":{
-            "imagen": "./multimedia/node.js",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/node.js",
             "parrafo": "Node.js: Javascript del lado del servidor"
         },
         "express":{
-            "imagen": "./multimedia/express.png",
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/multimedia/express.png",
             "parrafo": "Express.js: Framework de Node.js para realizar servidores"
         }
     }
