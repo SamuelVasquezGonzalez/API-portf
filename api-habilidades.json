@@ -16,6 +16,10 @@
     },
 
     {
+        "ai":{
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ai.png",
+            "parrafo": "Ilustrator: Ilustraciones en vectorización"
+        },
         "ps":{
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ps.png",
             "parrafo": "Photoshop: Edicion de imagenes"
