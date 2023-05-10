@@ -23,14 +23,6 @@
         "ps":{
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ps.png",
             "parrafo": "Photoshop: Edicion de imagenes"
-        },
-        "fontAwesomeIcons": {
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/fontawesome.png",
-            "parrafo": "FontAwesome: Iconos en formato de fuente"
-        },
-        "googleIcons": {
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/google.png",
-            "parrafo": "Google Icons/Fonts: Tipografias e iconos para la web"
         }
     },
 
@@ -42,18 +34,6 @@
     },
 
     {
-        "vsc":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/vsc.png",
-            "parrafo": "Visual Studio Code: Editor de texto"
-        },
-        "terminal":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/terminal.png",
-            "parrafo": "Terminal de Windows"
-        },
-        "xampp":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/xampp.png",
-            "parrafo": "Xampp: Servidor Local"
-        },
         "git":{
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/git.png",
             "parrafo": "Git: Control de versionesl"
@@ -75,6 +55,10 @@
         "express":{
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/express.png",
             "parrafo": "Express.js: Framework de Node.js para realizar servidores"
+        },
+        "react":{
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/react.png",
+            "parrafo": "React.js: Libreria para hacer interfaces de usuario"
         }
     }
 ]

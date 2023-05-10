@@ -1,0 +1,31 @@
+[
+    {
+        "img": "ttps://samuelvasquezgonzalez.github.io/API-portf/multimedia/lm-galery.png",
+        "info": "LM-Galery: Photo galery with Node.js",
+        "url": "https://lmgalery.onrender.com/"
+    },
+    
+    {
+        "img": "ttps://samuelvasquezgonzalez.github.io/API-portf/multimedia/fastkart.png",
+        "info": "Ecommerce FastKart: Static ecommerce with Node.js",
+        "url": "https://github.com/SamuelVasquezGonzalez/fastkart-ecommerce"
+    },
+
+    {
+        "img": "ttps://samuelvasquezgonzalez.github.io/API-portf/multimedia/locus.png",
+        "info": "Locus: Locus is a website that helps tourism in unknown areas",
+        "url": "https://github.com/C4CH4L0T3/Locus"
+    },
+    
+    {
+        "img": "ttps://samuelvasquezgonzalez.github.io/API-portf/multimedia/videotube.png",
+        "info": "VideoTube: Basic clone static of Youtube",
+        "url": "#"
+    },
+
+    {
+        "img": "ttps://samuelvasquezgonzalez.github.io/API-portf/multimedia/github.png",
+        "info": "More of my repostories and works",
+        "url": "https://github.com/SamuelVasquezGonzalez"
+    }
+]
