@@ -1,64 +1,65 @@
 [
 
-    {
-        "html": {
+
+    [
+        {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/html.png",
-            "parrafo": "HTML5: MAQUETACION"
+            "parrafo": "HTML5: Web Layout"
         },
-        "css": {
+        {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/css.png",
-            "parrafo": "CSS3: ESTILOS DEL SITIOO"
+            "parrafo": "CSS3: Web Styles"
         },
-        "js": {
+        {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/js.png",
-            "parrafo": "JavaScript: Funcionalidad de la web"
-        }
-    },
-
-    {
-        "ai":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ai.png",
-            "parrafo": "Ilustrator: Ilustraciones en vectorización"
+            "parrafo": "JavaScript: Website Functionality"
         },
-        "ps":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ps.png",
-            "parrafo": "Photoshop: Edicion de imagenes"
-        }
-    },
-
-    {
-        "mysql":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/mysql.png",
-            "parrafo": "MySql: Gestor y creador de bases de datos"
-        }
-    },
-
-    {
-        "git":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/git.png",
-            "parrafo": "Git: Control de versionesl"
-        },
-        "npm":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/npm.png",
-            "parrafo": "Npm: Manejador de paquetes de Node.js"
-        },
-       "workbench":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/workbench.png",
-            "parrafo": "MySql Workbench: Interfaz de Mysql"
-        }
-    },
-    {
-        "nodeJs":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/node.js",
-            "parrafo": "Node.js: Javascript del lado del servidor"
-        },
-        "express":{
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/express.png",
-            "parrafo": "Express.js: Framework de Node.js para realizar servidores"
-        },
-        "react":{
+        {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/react.png",
-            "parrafo": "React.js: Libreria para hacer interfaces de usuario"
+            "parrafo": "React.js: Library to make user Interfaces"
         }
-    }
+    ],
+
+    [
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ai.png",
+            "parrafo": "Ilustrator: Illustrations in Vectorization"
+        },
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ps.png",
+            "parrafo": "Photoshop: Image Edition"
+        }
+    ],
+
+    [
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/mysql.png",
+            "parrafo": "MySql: Database Manager and Creator"
+        }
+    ],
+
+    [
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/git.png",
+            "parrafo": "Git: Version Control System"
+        },
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/npm.png",
+            "parrafo": "Npm: Node.js Package Manager"
+        },
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/workbench.png",
+            "parrafo": "MySql Workbench: MySQL interface"
+        }
+    ],
+    [
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/node.js",
+            "parrafo": "Node.js: Server-side Javascript"
+        },
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/express.png",
+            "parrafo": "Express.js: Node.js Framework to make the Endpoints"
+        }
+    ]
 ]
