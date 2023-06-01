@@ -4,62 +4,76 @@
     [
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/html.png",
-            "parrafo": "HTML5: Web Layout"
+            "parrafo": "HTML5: Web Layout",
+            "title": "Html Logo"
         },
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/css.png",
-            "parrafo": "CSS3: Web Styles"
+            "parrafo": "CSS3: Web Styles",
+            "title": "Css Logo"
         },
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/js.png",
-            "parrafo": "JavaScript: Website Functionality"
+            "parrafo": "JavaScript: Website Functionality",
+            "title": "Javascript Logo"
         },
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/react.png",
-            "parrafo": "React.js: Library to make user Interfaces"
+            "parrafo": "React.js: Library to make user Interfaces",
+            "title": "React.js Logo"
+            
         }
     ],
 
     [
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ai.png",
-            "parrafo": "Ilustrator: Illustrations in Vectorization"
+            "parrafo": "Ilustrator: Illustrations in Vectorization",
+            "title": "Adobe Ilustrator Logo"
         },
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ps.png",
-            "parrafo": "Photoshop: Image Edition"
+            "parrafo": "Photoshop: Image Edition",
+            "title": "Adobe Photoshop Logo"
         }
     ],
 
     [
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/mysql.png",
-            "parrafo": "MySql: Database Manager and Creator"
+            "parrafo": "MySql: Database Manager and Creator",
+            "title": "Mysql db Logo"
         }
     ],
 
     [
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/git.png",
-            "parrafo": "Git: Version Control System"
+            "parrafo": "Git: Version Control System",
+            "title": "Git logo"
         },
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/npm.png",
-            "parrafo": "Npm: Node.js Package Manager"
+            "parrafo": "Npm: Node.js Package Manager",
+            "title": "Npm Logo"
+            
         },
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/workbench.png",
-            "parrafo": "MySql Workbench: MySQL interface"
+            "parrafo": "MySql Workbench: MySQL interface",
+            "title": "Mysql Workbench Logo"
         }
     ],
     [
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/node.js",
-            "parrafo": "Node.js: Server-side Javascript"
+            "parrafo": "Node.js: Server-side Javascript",
+            "title": "Node.js Logo"
         },
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/express.png",
-            "parrafo": "Express.js: Node.js Framework to make the Endpoints"
+            "parrafo": "Express.js: Node.js Framework to make the Endpoints",
+            "title": "Express Logo"
         }
     ]
 ]
