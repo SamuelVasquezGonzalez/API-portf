@@ -22,6 +22,12 @@
             "parrafo": "React.js: Library to make user Interfaces",
             "title": "React.js Logo"
             
+        },
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/sass.png",
+            "parrafo": "Sass: CSS preprocessor. CSS with !Superpowers!",
+            "title": "Sass Logo"
+            
         }
     ],
 
