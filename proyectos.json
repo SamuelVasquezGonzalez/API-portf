@@ -8,8 +8,8 @@
     
     {
         "img": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/SA-MN.png",
-        "info": "SA-MN: Is a business accounting, employee management and inventory software (in development)",
-        "url": "https://github.com/SamuelVasquezGonzalez/SA-MN-Backend",
+        "info": "SA-MN: Developing business software. (In development)",
+        "url": "https://samn.netlify.app/",
         "title": "SA-MN"
     },
 
@@ -22,7 +22,7 @@
     
     {
         "img": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/Uinify.png",
-        "info": "Uinify: is a UI component CMS for developers (in development)",
+        "info": "Uinify: is a UI component CMS for developers. (In planning)",
         "url": "#",
         "title": "Uinify"
     },
@@ -38,6 +38,6 @@
         "img": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/github.png",
         "info": "More of my repostories and works",
         "url": "https://github.com/SamuelVasquezGonzalez",
-        "title": "GitHub Repo"
+        "title": "GitHub Repos"
     }
 ]
