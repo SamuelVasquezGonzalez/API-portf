@@ -13,28 +13,40 @@
             "title": "Css Logo"
         },
         {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/sass.png",
+            "parrafo": "Sass: CSS preprocessor. CSS with ¡Superpowers!",
+            "title": "Sass Logo"
+            
+        },
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/python.png",
+            "parrafo": "Python: Data Science language",
+            "title": "Python Logo"
+            
+        },
+        {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/js.png",
             "parrafo": "JavaScript: Website Functionality",
             "title": "Javascript Logo"
+        },
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/typescript.png",
+            "parrafo": "TypeScript: strongly typed Javascript ",
+            "title": "TypeScript Logo"
         },
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/react.png",
             "parrafo": "React.js: Library to make user Interfaces",
             "title": "React.js Logo"
             
-        },
-        {
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/sass.png",
-            "parrafo": "Sass: CSS preprocessor. CSS with !Superpowers!",
-            "title": "Sass Logo"
-            
         }
+        
     ],
 
     [
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/ai.png",
-            "parrafo": "Ilustrator: Illustrations in Vectorization",
+            "parrafo": "Ilustrator: Illustrations in vectors",
             "title": "Adobe Ilustrator Logo"
         },
         {
@@ -47,8 +59,13 @@
     [
         {
             "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/mysql.png",
-            "parrafo": "MySql: Database Manager and Creator",
-            "title": "Mysql db Logo"
+            "parrafo": "MySql: Relational database",
+            "title": "MysqlDB Logo"
+        },
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/mongoDb.png",
+            "parrafo": "MongoDB: Non-relational database",
+            "title": "MongoDB Logo"
         }
     ],
 
@@ -65,9 +82,14 @@
             
         },
         {
-            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/workbench.png",
-            "parrafo": "MySql Workbench: MySQL interface",
-            "title": "Mysql Workbench Logo"
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/dveaver.png",
+            "parrafo": "DBeaver: Database administrator",
+            "title": "DBeaver Logo"
+        },
+        {
+            "imagen": "https://samuelvasquezgonzalez.github.io/API-portf/multimedia/postman.png",
+            "parrafo": "Postman: Http request",
+            "title": "Postman Logo"
         }
     ],
     [
